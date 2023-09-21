@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "image": "/images/img1.jpeg",
+      "releaseYear": 1994,
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "image": "/images/img2.jpeg",
+      "releaseYear": 1972,
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+    },
+    {
+      "id": 3,
+      "title": "Harry potter",
+      "image": "/images/img3.jpeg",
+      "releaseYear": 2001,
+      "description": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard."
+    },
+    {
+      "id": 4,
+      "title": "Pirates of the caribbean",
+      "image": "/images/img4.jpeg",
+      "releaseYear": 2004,
+      "description": "Captain Jack Sparrow is pursued by old rival Captain Salazar and a crew of deadly ghosts who have escaped from the Devil's Triangle."
+    }
+  ]
+  
