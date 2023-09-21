@@ -2,6 +2,8 @@ import React from 'react';
 import { useSelector } from 'react-redux';
 import MovieItem from './MovieItem';
 import moviesData from '../data/movies.json';
+import '../App.css';
+
 
 const MovieList = () => {
   const searchTerm = useSelector((state) => state.searchTerm);
